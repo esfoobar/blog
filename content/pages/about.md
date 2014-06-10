@@ -1,8 +1,7 @@
-Title: About me
+Title: About
 Slug: about
 Date: 2014-06-10 16:57
 Author: Jorge Escobar
-Summary: A little about me
 
 <img src="/images/about/jorge.jpeg" width="250" height="250" class="thumbnail" alt="Jorge Escobar" />
 

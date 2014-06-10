@@ -1,0 +1,11 @@
+.navbar{
+    min-height: 60px;
+}
+
+.navbar-nav {
+    padding-top: 9px;
+}
+
+body{
+    padding-top: 107px;
+}
