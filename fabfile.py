@@ -7,14 +7,14 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'jungleg@jungleg.com:22'
+production = 'jorge@jungleg.com:22'
 dest_path = '/var/www/html/blog'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'
 env.cloudfiles_api_key = 'my_rackspace_api_key'
 env.cloudfiles_container = 'my_cloudfiles_container'
-
+env.key_filename = '/Users/jorge/.ssh/jungleg_rsa'
 
 def clean():
     if os.path.isdir(DEPLOY_PATH):
