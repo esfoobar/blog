@@ -1,0 +1,6 @@
+*~
+*.pyc
+*.swp
+*#
+.metadata
+.DS_Store
