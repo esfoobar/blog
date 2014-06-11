@@ -3,7 +3,7 @@ Slug: about
 Date: 2014-06-10 16:57
 Author: Jorge Escobar
 
-<img src="/images/about/jorge.jpeg" width="250" height="250" class="thumbnail" alt="Jorge Escobar" />
+<img src="http://jungleg.com/images/about/jorge.jpeg" width="250" height="250" class="thumbnail" alt="Jorge Escobar" />
 
 Jorge Escobar is a technologist and blogger who fell in love with computers from the first time he saw the Texas Instruments TI-994A.
 
