@@ -40,7 +40,7 @@ PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}/index.html"
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 
-THEME = "/opt/blog/blog/themes/pelican-bootstrap3"
+THEME = "/opt/blog/pelican-bootstrap3"
 CUSTOM_CSS = 'static/custom.css'
 
 DISPLAY_PAGES_ON_MENU = True

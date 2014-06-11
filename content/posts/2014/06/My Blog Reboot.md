@@ -14,5 +14,5 @@ We also had the most incredible hub called [FriendFeed](http://friendfeed.com), 
 
 Shortly after [Facebook bought FriendFeed](http://techcrunch.com/2009/08/10/facebook-acquires-friendfeed/), that community started to dissolve. My life was also thrown into a wind of change, and I was forced to look for a new job. I eventually joined a startup that required 100% of my waking hours, and was about the same story for almost 4 years while I worked there.
 
-My blog was so unattended that I decided to pull the plug and just point it to an [about.me](http://about.me) page.
+My blog was so unattended that I decided to pull the plug and just point it to an [about.me](http://about.me/jungleg) page.
 

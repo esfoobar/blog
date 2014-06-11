@@ -7,5 +7,16 @@
 }
 
 body{
-    padding-top: 107px;
+    padding-top: 73px;
+}
+
+article a {
+    color: #00b;
+    border-bottom: 1px dotted;
+}
+
+article a:hover {
+    color: #00d;
+    border-bottom: none;
+    text-decoration: none;
 }
