@@ -3,6 +3,7 @@ Date: 2014-06-10 16:54
 Tags: blogging
 Slug: my-blog-reboot
 Author: Jorge Escobar
+Status: published
 
 <img src="/images/posts/2014/06/reboot.jpg" width="300" height="300" class="img-thumbnail" alt="Ctrl Alt Del" />
 

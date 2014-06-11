@@ -12,7 +12,7 @@ DEFAULT_LANG = u'en'
 PATH = 'content' 
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = "http://feeds.feedburner.com/jungleg"
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
@@ -42,6 +42,7 @@ YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 
 THEME = "/opt/blog/pelican-bootstrap3"
 CUSTOM_CSS = 'static/custom.css'
+TYPOGRIFY = True
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -64,3 +65,7 @@ EXTRA_PATH_METADATA = {
 SITELOGO = 'images/logo_final.png'
 SITELOGO_SIZE = "100"
 HIDE_SITENAME = True
+
+GOOGLE_ANALYTICS_UNIVERSAL = "UA-51840502-1"
+GOOGLE_ANALYTICS_UNIVERSAL_PROPERTY = "jungleg.com"
+
