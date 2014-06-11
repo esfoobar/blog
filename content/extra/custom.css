@@ -10,6 +10,12 @@ body{
     padding-top: 73px;
 }
 
+.page-header{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+}
+
 article a {
     color: #00b;
     border-bottom: 1px dotted;
