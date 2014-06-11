@@ -12,7 +12,7 @@ DEFAULT_LANG = u'en'
 PATH = 'content' 
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = "http://feeds.feedburner.com/jungleg"
+FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
