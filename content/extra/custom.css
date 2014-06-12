@@ -16,13 +16,17 @@ body{
     border-bottom: 0px;
 }
 
-article a {
+article a{
     color: #00b;
     border-bottom: 1px dotted;
 }
 
-article a:hover {
+article a:hover{
     color: #00d;
     border-bottom: none;
     text-decoration: none;
+}
+
+.twitter-timeline{
+    height: 600px;
 }
