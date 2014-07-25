@@ -69,7 +69,13 @@
             <article>
                 <h2><a href="../posts/2014/07/why-use-a-static-site-generator/">Why Use a Static Site Generator Instead of a Blogging&nbsp;Platform</a></h2>
                 <div class="summary"><p><img src="/images/posts/2014/07/static-screen.jpeg" width="450" height="300" class="img-thumbnail" alt="Static Screen" /></p>
-<p>There are many security&nbsp;concerns</p>
+<p>When I started using Wordpress, I thought it was an awesome solution for blogging. It was easy to install and seemed like by just using plugins, you could augment your blog with a lot of features&nbsp;easily.</p>
+<p>That was until I got hacked not only once, but twice. Wordpress and any other database-backed Content Management System suffers from the same security vulnerability: you store the content behind an authorization scheme. There are ways to prevent this (and I even wrote a <a href="https://web.archive.org/web/20100213110721/http://jungleg.com/2009/09/21/feeling-secure-with-the-latest-wordpress-version-think-again-and-7-tips-to-secure-it">blog post</a> about it in the previous incarnation of my blog), but the complexity of keeping up to date with all the patches, monitoring bad plugins and other security considerations quickly become pretty overwhelming. The feeling of seeing Viagra ads all over your site is something you don&#8217;t easily&nbsp;shake.</p>
+<p>There&#8217;s also the scalability factor: if your site has a mention on Mashable or Hacker News, you can pretty much kiss your website goodbye, as your infrastructure is not designed to withstand hundreds of visits per second, and unless you have some sort of caching layer enabled (which most small blogs don&#8217;t), every page needs to request its content from the database &#8212; and that becomes a bottleneck for the serving of your&nbsp;content.</p>
+<p>When I decided to launch my blog again, I knew I wanted to do it using the new wave of content serving systems: static site&nbsp;generators.</p>
+<h4>What is a static site&nbsp;generator?</h4>
+<p>The idea seems a little bit stange at first. What if instead of generating each post every time the user requests it, we pre-generate <em>all</em> the posts, write them on the filesystem as static <span class="caps">HTML</span>/<span class="caps">CSS</span>/JavaScript files and folders and then transmit that content to the remote&nbsp;server?</p>
+<p>But wait, you must be saying, doesn&#8217;t that take a long time? The truth is for most blogs it doesn&#8217;t, and unless you have thousands of posts, regenerating a blog with 1,000 posts takes a few seconds for most generators. But the beautiful thing is that once that content is generated, there are no databases to access, your whole ...</p>
                     <a class="btn btn-default btn-xs" href="../posts/2014/07/why-use-a-static-site-generator/">more ...</a>
                 </div>
             </article>
@@ -119,13 +125,13 @@
                             </a>
                         </li>
                         <li class="list-group-item tag-4">
-                            <a href="../tag/staticgenerator.html">
-                                staticgenerator
+                            <a href="../tag/generator.html">
+                                generator
                             </a>
                         </li>
                         <li class="list-group-item tag-4">
-                            <a href="../tag/generator.html">
-                                generator
+                            <a href="../tag/staticgenerator.html">
+                                staticgenerator
                             </a>
                         </li>
                         <li class="list-group-item tag-4">
