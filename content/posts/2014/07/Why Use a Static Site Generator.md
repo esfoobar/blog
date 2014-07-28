@@ -5,7 +5,7 @@ Slug: why-use-a-static-site-generator
 Author: Jorge Escobar
 Status: published
 
-<img src="/images/posts/2014/07/static-screen.jpeg" width="450" height="300" class="img-thumbnail" alt="Static Screen" />
+<img src="http://jungleg.com/images/posts/2014/07/static-screen.jpeg" width="450" height="300" class="img-thumbnail" alt="Static Screen" />
 
 When I started using Wordpress, I thought it was an awesome solution for blogging. It was easy to install and seemed like by just using plugins, you could augment your blog with a lot of features easily.
 
